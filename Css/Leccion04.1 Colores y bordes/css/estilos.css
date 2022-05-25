@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: navy;
+}
+.rojo{
+    border: 10px solid red;
+}
+.amarillo{
+    border: 10px dashed gold;
+}
+.azul{
+    border: 10px double blue;
+}
+.rosa{
+    border: 10px dotted hotpink;
+}
+ 

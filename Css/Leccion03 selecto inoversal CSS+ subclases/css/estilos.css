@@ -1,0 +1,9 @@
+h1, h2{
+    color: crimson;
+    text-align: center;
+}
+/*p . center    Center es una clase y la p un elemento a esto 
+se le llama subclase*/
+p.center{
+    text-align: center;
+}

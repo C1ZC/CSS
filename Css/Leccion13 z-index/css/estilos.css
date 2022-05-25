@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+.p_b{
+    padding-bottom: 2000px;
+}
+div.statico{
+    position: static;
+    padding: 15px;
+    top: 10px;
+    border: 3px solid greenyellow;
+    background-color: whitesmoke;
+}
+div.relativo{
+    position: relative;
+    padding: 15px;
+    top: 10px;
+    border: 3px solid blueviolet;
+    background-color: whitesmoke;
+    z-index: 0;
+    
+}
+div.absoluto{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    padding: 5px;
+    border: 3px solid cornflowerblue;
+    background-color: whitesmoke;
+
+}

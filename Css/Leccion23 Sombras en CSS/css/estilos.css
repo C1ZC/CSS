@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: #e63946;
+    text-shadow: 2px 2px 2px #a8dadc;
+}
+div.contenedor{
+    width: 30%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid #a8dadc;
+    padding: 15px;
+    color: #457b9d;
+    text-align: center;
+    box-shadow: 4px 4px 4px 4px grey;
+    border-radius: 15px;
+}
+div.cabecero img{
+    width: 90%;
+    opacity: 0.5;
+}
+div.cabecero img:hover{
+    opacity: 1.0;
+}
+div.cabecero{
+    background-color: #4cc9f0;
+}
+div.cuerpo{
+    padding-top: 2px;
+    font-size: 1.2em;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px rgb(177, 177, 177);
+}

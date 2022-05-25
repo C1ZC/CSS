@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: #626262
+    ;
+}
+div{
+    padding: 10px 5px 15px 3px;
+    border: 15px solid #457b9d;
+    margin: 100px; /* centrar elemento*/
+    background-color: #def1d8;
+    max-width: 300px;
+    /*max-height: 100px;
+    outline: 10px solid #fe1234;
+    outline-offset: 10px;*/
+    box-sizing: border-box;
+}
+p.interno{
+    margin: inherit;
+}
